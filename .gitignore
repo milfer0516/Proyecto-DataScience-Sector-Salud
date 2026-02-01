@@ -1,0 +1,33 @@
+
+# Ignore Google Sheets files in MyDrive that cause git add errors
+drive/MyDrive/*.gsheet
+
+# Ignore Google Sheets files in MyDrive that cause git add errors
+drive/MyDrive/*.gsheet
+
+# Ignore Google Sheets files in MyDrive that cause git add errors
+drive/MyDrive/*.gsheet
+
+# Ignore Google Docs files in MyDrive that cause git add errors
+drive/MyDrive/*.gdoc
+
+# Ignore Google Sheets files recursively in MyDrive
+drive/MyDrive/**/*.gsheet
+
+# Ignore Google Docs files recursively in MyDrive
+drive/MyDrive/**/*.gdoc
+
+# Ignore Google Sheets files in MyDrive that cause git add errors
+drive/MyDrive/*.gsheet
+
+# Ignore Google Docs files in MyDrive that cause git add errors
+drive/MyDrive/*.gdoc
+
+# Ignore Google Sheets files recursively in MyDrive
+drive/MyDrive/**/*.gsheet
+
+# Ignore Google Docs files recursively in MyDrive
+drive/MyDrive/**/*.gdoc
+
+# Excluir completamente el directorio Google Drive montado para evitar errores
+drive/MyDrive/
