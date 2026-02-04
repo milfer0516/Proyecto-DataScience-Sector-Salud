@@ -31,3 +31,10 @@ drive/MyDrive/**/*.gdoc
 
 # Excluir completamente el directorio Google Drive montado para evitar errores
 drive/MyDrive/
+
+# Ignorar este archivo
+pyvenv.cfg
+
+Scripts/
+
+Lib/
